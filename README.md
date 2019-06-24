@@ -12,7 +12,7 @@ Left click to shoot
 
 R to restart
 
-Q to Quit
+Q to quit
 
 <img src="spaceinvaders.png" width="500">
 
